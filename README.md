@@ -97,8 +97,8 @@ Here's a breakdown of the most demanded skills for remote data analyst in 2023, 
 - **Python** follows closely with a count of 7.
 - **Tableau** is also highly sought after, with a count of 6. Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](assets\2_top_paying_roles_skills.png)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from the SQL query results.*
+![Top Paying Skills][def]
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from the SQL query results.* 
 
 ### 3. In-Demand Skills for Data Analysts
 
@@ -258,3 +258,5 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. As an aspiring data analysts, I can better position myself in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
+[def]: assets\2_top_paying_roles_skills.png
